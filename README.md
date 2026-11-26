@@ -10,7 +10,7 @@ Pengiriman notifikasi dilakukan melalui Postman menggunakan Firebase Cloud Messa
 
 ![Pengujian Pengiriman Notifikasi](screenshots/postman1.png)
 
-![Response Berhasil](screenshots/postman2png)
+![Response Berhasil](screenshots/postman2.png)
 
 ## Kesimpulan
 
