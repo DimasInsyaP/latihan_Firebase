@@ -1,17 +1,17 @@
-# firebase_latihan
+# Dokumentasi Firebase Cloud Messaging (FCM)
 
-A new Flutter project.
+Dokumentasi ini berisi hasil pengujian pengiriman notifikasi menggunakan **Firebase Cloud Messaging (FCM)** melalui Postman.
 
-## Getting Started
+## Hasil Pengujian
 
-This project is a starting point for a Flutter application.
+Pengiriman notifikasi dilakukan melalui Postman menggunakan Firebase Cloud Messaging HTTP v1 dengan tujuan perangkat Android berdasarkan FCM Token.
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Screenshot Pengujian di Postman
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+![Pengujian Pengiriman Notifikasi](screenshots/postman1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Response Berhasil](screenshots/postman2png)
+
+## Kesimpulan
+
+Berdasarkan hasil pengujian, pengiriman notifikasi ke perangkat menggunakan Firebase Cloud Messaging melalui Postman berhasil dilakukan.
